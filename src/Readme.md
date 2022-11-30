@@ -1,0 +1,1 @@
+Projeto realizado em aula do curso FullSatack d B7Web. Ideia é desenvolver funcionalidades semelhantes ao OLX. utilizando ReactJS e suas funcionalidades.
